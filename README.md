@@ -47,7 +47,7 @@ echo "OPENAI_API_KEY=your_openai_api_key_here" > .env
 
 5. Run the Magic! ✨
 ```bash
-python dockerfile-optimizer-cli-with-dotenv.py /path/to/your/Dockerfile
+python main.py /path/to/your/Dockerfile
 ```
 
 ### 🎬 Example Output
