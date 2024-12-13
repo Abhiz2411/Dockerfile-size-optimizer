@@ -1,0 +1,8 @@
+# Core Libraries
+openai==1.7.2
+rich==13.7.0
+python-dotenv==1.0.0
+
+# Optional: For development and virtual environment management
+setuptools==69.0.2
+wheel==0.42.0
